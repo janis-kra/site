@@ -11,5 +11,9 @@
     "next": "^10.0.0",
     "react": "17.0.1",
     "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "prettier": "2.2.1",
+    "react-social-icons": "^4.1.0"
   }
 }
